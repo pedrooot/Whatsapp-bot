@@ -1,4 +1,6 @@
-
+#Created by Pedro Martin Gonzalez
+#Github user: pedromarting3
+#Gmail: pedromarting3@gmail.com
 from flask import Flask, request
 import requests
 import random
@@ -42,7 +44,6 @@ def bot():
         mostrar = random.choice(perretes)
         msg.media(mostrar)
         responded = True
-    if '
     if not responded:
         msg.body('I only know about famous quotes and cats, sorry!')
     return str(resp)
