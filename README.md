@@ -4,5 +4,5 @@ The installation documentation is here: https://www.twilio.com/blog/crear-un-cha
 This bot is easy to use, instructions are:
 - Type 'meme' in whatsapp chat to get a meme image
 - Type 'cat' to get a random cat image
-- Type 'dog' to get a randpom dog image
+- Type 'dog' to get a random dog image
 - Type 'quote' to get a random quote
